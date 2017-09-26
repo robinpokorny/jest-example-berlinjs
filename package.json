@@ -11,7 +11,7 @@
   "devDependencies": {
     "babel-jest": "^17.0.2",
     "jest": "^17.0.2",
-    "react-test-renderer": "^15.4.0"
+    "react-test-renderer": "^16.0.0"
   },
   "dependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.16.0",
